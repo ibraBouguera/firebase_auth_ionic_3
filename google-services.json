@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "983204047247",
+    "firebase_url": "https://fir-ibra.firebaseio.com",
+    "project_id": "fir-ibra",
+    "storage_bucket": "fir-ibra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983204047247:android:0fdc90b08d90ea3d",
+        "android_client_info": {
+          "package_name": "net.ibra.ionicSMS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983204047247-rem9ql3fgb32kgt209g9felq5hkbn3hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.ibra.ionicSMS",
+            "certificate_hash": "c1f5a957f459102d9911ea8a56ce57ef9157b1f4"
+          }
+        },
+        {
+          "client_id": "983204047247-kda9a7bs8holr8bf1ge2ib3juag58jde.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "983204047247-kda9a7bs8holr8bf1ge2ib3juag58jde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl69rJ2QueMuaZsYCdem5sPgDp4F3sFoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983204047247-kda9a7bs8holr8bf1ge2ib3juag58jde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
