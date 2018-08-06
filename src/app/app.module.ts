@@ -6,15 +6,15 @@ import { StatusBar } from '@ionic-native/status-bar';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
-import * as firebase from 'firebase'; 
+import * as firebase from 'firebase';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyC2AN8UVajWrQMfy_fB2MwDj3EcODAUifs",
-  authDomain: "fir-ibra.firebaseapp.com",
-  databaseURL: "https://fir-ibra.firebaseio.com",
-  projectId: "fir-ibra",
+  apiKey: "Your_App_Key",
+  authDomain: "Your_Domain",
+  databaseURL: "Your_Database_URL",
+  projectId: "Your_Project_Name",
   storageBucket: "",
-  messagingSenderId: "983204047247"
+  messagingSenderId: "Your_Id_Sender"
 });
 @NgModule({
   declarations: [
